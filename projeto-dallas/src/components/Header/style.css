@@ -1,0 +1,9 @@
+.header {
+    position: sticky;
+    background-color: cadetblue;
+    color: white;
+    
+}
+.header h2{
+    color: white;
+}
