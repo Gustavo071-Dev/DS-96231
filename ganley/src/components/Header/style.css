@@ -1,0 +1,11 @@
+.header {
+    top: 0;
+    text-align: center;
+    background-color: black;
+    
+}
+
+.header h1 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
