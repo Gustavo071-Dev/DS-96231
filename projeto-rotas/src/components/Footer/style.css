@@ -1,0 +1,21 @@
+/* components/Footer/style.css */
+footer {
+  background-color: #0f172a;
+  color: #94a3b8;
+  padding: 24px 20px;
+  text-align: center;
+  border-top: 1px solid #1e293b;
+  font-size: 0.9rem;
+}
+
+footer strong {
+  color: #ffffff;
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+footer p {
+  color: #64748b;
+}
